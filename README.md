@@ -1,12 +1,13 @@
 # SpringBoot 基础教程连载  -- 2019/05/12zaj测试本地idea使用git拉取代码。idea修改的可以引起冲突的测试____________>>>>>>本地手动解决了冲突>>>>>>>>>>>>>>>>>>GitHub修改的可以引起冲突的测试
-# 我线下提交了。
+# 我线下提交了。---
+##我一个新分支，假装修改了bug，你懂得。！！！！
 本项目内容为SpringBoot基础教程，基于2.0.3版本。如您觉得该项目对您有用，欢迎点击右上方的Star按钮，给予支持！！
 - 我的博客：http://www.mkeeper.club/
 - GitHub：https://github.com/Mkeeper6
 - Gitee: https://gitee.com/Mkeeper
 - QQ交流群1：858298732
 - 我的公众号：
-
+###假装自己在开发，你还不懂吗
 ![公众号](https://oscimg.oschina.net/oscnet/e8870411cf89e55a4b07e131382e0f51e73.jpg)
 
 ## 1 项目搭建
